@@ -1,0 +1,2 @@
+void design(int x);
+
